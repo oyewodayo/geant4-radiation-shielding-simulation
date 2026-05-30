@@ -1,5 +1,5 @@
-Below is a comprehensive, production-grade User Guide and Technical Reference Manual [ersj.eu]. This document is structured so that any researcher, student, or developer can open your repository, understand the underlying physics, deploy the code, and interpret the Monte Carlo datasets completely from scratch.
-------------------------------
+
+
 ## 📘 GEANT4 RADIATION SHIELDING SIMULATION SYSTEM## User Guide & Core Technical Reference Manual
 ------------------------------
 ## 🗺️ Part 1: System Overview & Architecture## What the Code Does (High-Level)
