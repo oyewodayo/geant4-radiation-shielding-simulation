@@ -1,0 +1,4 @@
+/run/initialize
+/gun/particle e-
+/run/beamOn 100
+

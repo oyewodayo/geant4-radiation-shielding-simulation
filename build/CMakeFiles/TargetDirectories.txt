@@ -1,0 +1,3 @@
+/home/user/geant4_shield_project/build/CMakeFiles/ShieldSim.dir
+/home/user/geant4_shield_project/build/CMakeFiles/edit_cache.dir
+/home/user/geant4_shield_project/build/CMakeFiles/rebuild_cache.dir

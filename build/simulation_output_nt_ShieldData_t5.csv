@@ -1,0 +1,8 @@
+#class tools::wcsv::ntuple
+#title Simulation Output Data
+#separator 44
+#vector_separator 59
+#column double EventID
+#column double EnergyDeposit
+1,75.1196
+2,89.3013

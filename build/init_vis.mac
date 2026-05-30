@@ -1,0 +1,6 @@
+/vis/open OGL
+/vis/drawVolume
+/vis/viewer/set/viewpointThetaPhi 70 20
+/vis/scene/add/trajectories smooth
+/vis/scene/endOfEventAction accumulate
+
