@@ -1,6 +1,6 @@
 
 
-## GEANT4 RADIATION SHIELDING SIMULATION SYSTEM  l
+## GEANT4 RADIATION SHIELDING SIMULATION SYSTEM
 ------------------------------
 ## 🗺️ Part 1: System Overview & Architecture## What the Code Does (High-Level)
 This system is an enterprise-grade Monte Carlo Particle Transport Simulation Application [link.aps.org]. Written in Object-Oriented C++ using the CERN Geant4 Toolkit, the software simulates a miniature radiation testing laboratory.
